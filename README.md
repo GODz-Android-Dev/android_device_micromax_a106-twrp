@@ -1,5 +1,5 @@
 TeamWin Recovery Project
 
-Device configuration for Lenovo A5000 (sprout)
+Device configuration for Lenovo A536 (sprout)
 
 
