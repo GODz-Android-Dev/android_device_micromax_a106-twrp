@@ -15,10 +15,10 @@
 ## Specify phone tech before including full_phone
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
-$(call inherit-product, device/Lenovo/A536/full_A536.mk)
+$(call inherit-product, device/micromax/a106/full_a106.mk)
 
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_NAME := omni_A536
+PRODUCT_NAME := omni_a106
 

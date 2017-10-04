@@ -16,7 +16,7 @@
 # Product-specific compile-time definitions.
 #
 
-LOCAL_PATH := device/Lenovo/A536
+LOCAL_PATH := device/micromax/a106
 
 # Platform
 TARGET_BOARD_PLATFORM := mt6582

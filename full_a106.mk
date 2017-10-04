@@ -21,7 +21,7 @@ PRODUCT_AAPT_CONFIG := normal hdpi
 PRODUCT_AAPT_PREF_CONFIG := hdpi
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 854
+TARGET_SCREEN_HEIGHT := 800
 TARGET_SCREEN_WIDTH := 480
 
 # Charger
@@ -34,9 +34,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/kernel:kernel
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := A536
-PRODUCT_NAME := full_A536
-PRODUCT_BRAND := Lenovo
-PRODUCT_MODEL := A536
-PRODUCT_MANUFACTURER := Lenovo
-PRODUCT_LOCALES := en_US ru_RU ua_UA
+PRODUCT_DEVICE := a106
+PRODUCT_NAME := full_a106
+PRODUCT_BRAND := Micromax
+PRODUCT_MODEL := a106
+PRODUCT_MANUFACTURER := Micromax
+PRODUCT_LOCALES := en_US

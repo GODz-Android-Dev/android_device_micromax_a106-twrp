@@ -14,6 +14,6 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_A536.mk \
-	$(LOCAL_DIR)/full_A536.mk
+	$(LOCAL_DIR)/omni_a106.mk \
+	$(LOCAL_DIR)/full_a106.mk
 

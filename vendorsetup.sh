@@ -1,2 +1,2 @@
-add_lunch_combo omni_A536-userdebug
+add_lunch_combo omni_a106-userdebug
 
